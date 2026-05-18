@@ -22,7 +22,7 @@
   <section class="px-4 sm:px-10 md:px-20 py-12 md:py-24 max-w-7xl mx-auto">
     <div class="flex flex-col md:flex-row gap-10 md:gap-16 items-center justify-between">
 
-      <div class="text-center md:text-left w-full md:w-1/2 order-2 md:order-1">
+      <div class="text-center md:text-center w-full md:w-1/2 order-2 md:order-1">
         <p class="uppercase tracking-[3px] md:tracking-[5px] text-zinc-500 text-xs md:text-sm font-semibold mb-4 block">
           Multi Exuberance Sdn. Bhd.
         </p>
