@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Carton Box Manufacturer | SG & MY Delivery | Multi Exuberance Sdn. Bhd.</title>
+    <title>Multi Exuberance Sdn. Bhd.</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 <body class="bg-white text-zinc-900 min-h-screen font-sans">
@@ -17,9 +17,9 @@
                 <h1 class="text-5xl md:text-4xl font-bold leading-[1.05] mb-8">
                     Manufacturers of Corrugated Carton Products corrugated carton boxes and also point-of-sale items
                 </h1>
-                <p class="text-xl text-zinc-600 leading-relaxed mb-10 max-w-2xl">
-                    One-stop corrugated carton manufacturing company in Johor Bahru, specializing in custom packaging, carton boxes, printing and industrial packaging solutions.
-                </p>
+                <p class="text-center md:text-left text-base md:text-lg text-emerald-600 font-semibold mt-2">
+  One-stop custom carton box packaging solutions for Singapore & Malaysia. Seamless cross-border door-to-door delivery to Singapore.
+</p>
                 <div class="flex gap-4 flex-wrap">
                     <button class="bg-black text-white px-8 py-4 rounded-2xl font-semibold">
                         HOTLINE 
