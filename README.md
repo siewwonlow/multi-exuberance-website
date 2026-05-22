@@ -18,7 +18,7 @@
                     Manufacturers of Corrugated Carton Products corrugated carton boxes and also point-of-sale items
                 </h1>
                 <p class="text-center md:text-left text-base md:text-lg text-emerald-600 font-semibold mt-2">
-  One-stop custom carton box packaging solutions for Singapore & Malaysia. Seamless cross-border door-to-door delivery to Singapore.
+ ＊ One-stop custom carton box packaging solutions for Singapore & Malaysia. Seamless cross-border door-to-door delivery to Singapore.
 </p>
                 <div class="flex gap-4 flex-wrap">
                     <button class="bg-black text-white px-8 py-4 rounded-2xl font-semibold">
