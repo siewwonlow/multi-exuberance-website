@@ -31,11 +31,10 @@
           Manufacturers of Corrugated Carton Products corrugated carton boxes and also point-of-sale items
         </h1>
 
-        <p class="text-base md:text-xl text-zinc-600 leading-relaxed mb-8 max-w-2xl mx-auto md:mx-0">
-          One-stop corrugated carton manufacturing company in Johor Bahru, specializing in custom packaging, carton boxes, printing and industrial packaging solutions.
-        </p>
-
-        <div class="flex gap-4 flex-wrap justify-center md:justify-start items-center">
+       <p class="text-center md:text-left text-base md:text-lg text-emerald-600 font-semibold mt-2">
+  One-stop custom carton box packaging solutions for Singapore & Malaysia. Seamless cross-border door-to-door delivery to Singapore.
+</p>
+                <div class="flex gap-4 flex-wrap justify-center md:justify-start items-center">
           <button class="bg-black text-white px-8 py-3.5 rounded-2xl font-semibold text-sm tracking-wide shadow-sm">
             HOTLINE
           </button>
